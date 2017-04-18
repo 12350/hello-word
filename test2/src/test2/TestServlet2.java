@@ -25,6 +25,14 @@ public class TestServlet2 extends HttpServlet {
 		request.setCharacterEncoding("utf-8");  
         response.setContentType("text/html;charset=utf-8");  
         System.out.println("test2");  
+        System.out.println("test2");  
+        System.out.println("test2");  
+        System.out.println("test2");  
+        System.out.println("test2");  
+        System.out.println("test2");  
+        System.out.println("test2");  
+        System.out.println("test2");  
+        System.out.println("test2");  
         System.out.println(request.getParameter("username"));  
         System.out.println(request.getParameter("password"));  
         //获得发送HTTP请求的参数  
