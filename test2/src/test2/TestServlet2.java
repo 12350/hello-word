@@ -25,7 +25,7 @@ public class TestServlet2 extends HttpServlet {
 		request.setCharacterEncoding("utf-8");  
         response.setContentType("text/html;charset=utf-8");  
         System.out.println("test2");  
-        System.out.println("test2");  
+        System.out.println("test3333");  
         System.out.println("test2");  
         System.out.println("test2");  
         System.out.println("test2");  
